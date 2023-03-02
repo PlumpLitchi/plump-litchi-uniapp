@@ -11,7 +11,7 @@
 	export default {
 		data() {
 			return {
-				title: 'Hello'
+				title: 'Android-离线打包测试'
 			}
 		},
 		onLoad() {
